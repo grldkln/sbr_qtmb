@@ -1,0 +1,3 @@
+Dependencies :
+libmodbus
+qextserialport
